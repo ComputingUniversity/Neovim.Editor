@@ -1,0 +1,4 @@
+- [Carmack Doesn't Like Vim | Prime Reacts](https://youtu.be/qFnHWMxlOBc)
+- [VIM isn't about speed](https://youtu.be/X9xq4-AzGSI)
+- [Why I Cant Stand IDE's After Using VIM | Prime Reacts](https://youtu.be/zPMPqzjM0Fw)
+- [From VSCode To Vim | Prime Reacts](https://youtu.be/-cn3MAovsN4)
