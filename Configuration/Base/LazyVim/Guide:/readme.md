@@ -1,0 +1,1 @@
+- [LazyVim: Linting and Formatting](https://youtu.be/a_ZpTPaSn38)
