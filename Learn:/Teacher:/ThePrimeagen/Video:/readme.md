@@ -2,7 +2,13 @@
 - [VIM isn't about speed](https://youtu.be/X9xq4-AzGSI)
 - [Why I Cant Stand IDE's After Using VIM | Prime Reacts](https://youtu.be/zPMPqzjM0Fw)
 - [From VSCode To Vim | Prime Reacts](https://youtu.be/-cn3MAovsN4)
+- [You Should Use A Neovim Distro If You Are New](https://youtu.be/6qSzFWRz6Ck)
 
 # Favorite:
 - [Teaching Neovim From Scratch To A Noob](https://youtu.be/-ybCiHPWKNA)
+
+
+# Relation:
+## TMux
+- [TMUX in 100 seconds | Prime Reacts](https://youtu.be/0eHZRPzbiJ0)
  
