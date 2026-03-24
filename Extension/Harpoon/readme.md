@@ -4,6 +4,7 @@ sch: https://www.google.com/search?q=neovim+harpoon
 https://frontendmasters.com/courses/vim-fundamentals/harpoon/
 
 # Config.:
+https://github.com/ThePrimeagen/harpoon/tree/harpoon2
 https://github.com/theprimeagen/harpoon
 
 # Discuss:
