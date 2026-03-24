@@ -21,4 +21,5 @@ cd ..
 f=index
 mkdir -p $f ; cd $f
 yt-dlp https://youtu.be/_kPg0VBRxJc
+yt-dlp https://youtu.be/iqdCshrIKIg
 cd ..
