@@ -1,5 +1,8 @@
 sch: https://www.google.com/search?q=neovim+harpoon
 
+# Doc:
+https://nix-community.github.io/nixvim/plugins/harpoon/index.html
+
 # Course:
 https://frontendmasters.com/courses/vim-fundamentals/harpoon/
 
