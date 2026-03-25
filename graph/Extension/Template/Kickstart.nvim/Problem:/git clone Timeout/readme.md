@@ -11,3 +11,5 @@ https://www.google.com/search?q=Kickstart+nvim+clone+one+at+a+time+reddit
 
 https://www.google.com/search?q=kickstart.nvim+%22Process+was+killed+because+it+reached+the+timeout%22
 https://www.google.com/search?q=kickstart.nvim+%22timeout%22
+
+https://www.google.com/search?q=kickstart+neovim+timeout
