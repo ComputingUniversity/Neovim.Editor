@@ -7,6 +7,7 @@ repos=(
 "https://github.com/L3MON4D3/LuaSnip.git",
 "https://github.com/mason-org/mason.nvim.git",
 "https://github.com/nvim-mini/mini.nvim.git",
+"https://github.com/nvim-telescope/telescope.nvim.git",
 "https://github.com/nvim-treesitter/nvim-treesitter.git",
 "https://github.com/neovim/nvim-lspconfig.git",
 )
