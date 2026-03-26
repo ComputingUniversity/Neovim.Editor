@@ -2,7 +2,7 @@
 https://github.com/nvim-lua/kickstart.nvim
 
 # Install.
-## Prerequisite:
+## Dependency:
 ### - [Tree Sitter CLI](https://github.com/ComputingUniversity/Neovim.Editor/tree/main/graph/Extension/Module/Tree%20Sitter/Install/Tree-sitter%20CLI)
 
 ### ripgrep
