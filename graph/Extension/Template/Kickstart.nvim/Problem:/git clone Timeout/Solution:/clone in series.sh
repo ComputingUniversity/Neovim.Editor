@@ -26,9 +26,11 @@ repos=(
 
 echo ${repos[@]}
 
-for r in $repos
+for r in "${repos[@]}"
 do
    git clone --recurse-submodules $r || true # Ignores already cloned directories
 done
 
 # Cannot use ` --depth=1` because Kickstart.nvim will checkout specific Commits.
+
+#https://maslosoft.com/kb/how-to-use-bash-array/
