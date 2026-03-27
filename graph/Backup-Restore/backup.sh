@@ -1,4 +1,6 @@
-bac=Neovim-LSP
+name=Neovim-LSP
+
+bac=~/$name
 
 mkdir -p $bac/Home
 
