@@ -2,8 +2,6 @@ name=Neovim-LSP
 
 bac=~/$name
 
-mkdir -p $bac/Home
-
 dirs=(
 ".cache"
 ".config"
@@ -17,8 +15,19 @@ todo=(
 ".cargo"
 )
 
-for d in ${dirs[@]};do
-	rsync -av --progress ~/$d $bac/Home/
-done
+sync_dirs(){
+	mkdir -p $bac/Home
 
-cp backup.sh $bac/
+	for d in ${dirs[@]};do
+		rsync -av --progress ~/$d $bac/Home/
+	done
+
+	cp backup.sh $bac/
+}
+
+compress(){
+	7zr a $bac.7z $bac
+}
+
+sync_dirs
+compress
