@@ -6,3 +6,6 @@ https://github.com/mason-org/mason.nvim
 
 # Relation:
 ## [mason-lspconfig.nvim](https://github.com/mason-org/mason-lspconfig.nvim)
+
+# Guide:
+- [Effective Neovim: Instant IDE](https://youtu.be/stqUbv-5u2s)
