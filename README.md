@@ -1,6 +1,1 @@
-# Neovim.Editor Knowledge
-# Home:
-https://neovim.io
-
-# Wiki:
-https://en.wikipedia.org/wiki/Neovim
+moved to: https://github.com/UniIDE/Neovim.Editor
